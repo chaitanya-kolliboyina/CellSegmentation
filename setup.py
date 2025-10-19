@@ -12,6 +12,10 @@ setup(
         'pillow',
         'scikit-learn',
         'numpy',
+        'albumentations',
+        'matplotlib',
+        'seaborn',
+        '
     ],
     description='Library for cancer cell segmentation from MRI images',
 )
