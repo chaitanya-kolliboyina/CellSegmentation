@@ -15,7 +15,7 @@ setup(
         'albumentations',
         'matplotlib',
         'seaborn',
-        '
+        
     ],
     description='Library for cancer cell segmentation from MRI images',
 )
